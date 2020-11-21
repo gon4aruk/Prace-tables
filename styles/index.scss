@@ -10,8 +10,9 @@ html {
 
 .page {
   background-color: $page-color;
-  min-height: 100vh;
-  min-width: 100vw;
+  min-height: 100%;
+  max-height: 100vh;
+  min-width: 100vh;
   display: flex;
   color: $text-color;
 }
