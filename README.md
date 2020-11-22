@@ -1,4 +1,4 @@
-## Vangoux Website
+## Place-tables page
 
 The site is available at https://gon4aruk.github.io/Prace-tables/
 
