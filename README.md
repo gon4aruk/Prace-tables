@@ -1,6 +1,6 @@
 ## Price-tables page
 
-The site is available at https://github.com/gon4aruk/price-tables.git
+The site is available at https://gon4aruk.github.io/price-tables/
 
 The page can be used as a price list for the product.
 
